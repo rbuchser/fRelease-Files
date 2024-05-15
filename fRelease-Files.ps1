@@ -1,4 +1,4 @@
-﻿Function fRelease-Files {
+Function fRelease-Files {
 	<#
 		.NOTES
 			Author: Buchser Roger
